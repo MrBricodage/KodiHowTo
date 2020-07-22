@@ -18,7 +18,7 @@ Roue Crantée -> LibreElec
 
 Roue Crantée -> LibreElec -> Connections
 
-![image](https://www.mbtechworks.com/wp-uploads/kodi-11.jpg)
+![image](https://wiki.libreelec.tv/_media/wiki/le-settings-connections2.png?w=400&tok=819715)
 
 
 Roue Crantée -> LibreElec -> Connections -> Choisir son Hotspot puis saisir le code wifi
