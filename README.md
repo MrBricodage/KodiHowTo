@@ -45,5 +45,4 @@ Définir un nom au boitier, adresse IP fournie par le réseau, port 8080
 Username : kod
 MDP : xxx
 
-## Configurer une source LiveStreamPro
 
