@@ -50,6 +50,8 @@ MDP : xxx
 
 Utiliser le menu TV pour voir les chaines françaises
 
+![image](https://catch-up-tv-and-more.github.io/img/live_tv_installation/intro1.jpeg)
+
 ## Contenu Sport en direct
 
 Dans Videos -> Extensions Vidéos
