@@ -10,7 +10,7 @@ Nécessite un clavier usb
 
 Roue Crantée
 
-![image](https://wiki.libreelec.tv/_detail/le-system-settings.jpg?id=libreelec_settings)
+![image](https://wiki.libreelec.tv/_media/le-system-settings.jpg?cache=&w=900&h=540&tok=bd1bed)
 
 Roue Crantée -> LibreElec
 
