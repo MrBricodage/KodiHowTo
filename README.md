@@ -54,7 +54,9 @@ Utiliser le menu TV pour voir les chaines françaises
 
 ## Contenu Sport en direct
 
-Dans Videos -> Extensions Vidéos
+Dans Extensions -> Extensions Vidéos
+
+![image](https://lh3.googleusercontent.com/proxy/dHpWLy34iuKXvfWKGXC6EooI84LHWNcLdXO6Yf-yOzEJIpS_Wu73J9cE2wLTEg9jEmeYgbdioPOfyhQSoh8VAOuaZ_PnU2AHtOr0csby-Ct8adU3rGSNRMoIRVlO2mli2KV08e_C6jNO_CjQSYyBJ39KRA4xQqNTAGAOMY8fbsuLnJ2SQ9-oGV2Zw7AP1TD0SFvkjIVMDWYMqw)
 
 Rising Tides pour le foot des 5 grands championnats européens
 
