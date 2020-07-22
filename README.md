@@ -1,6 +1,6 @@
-# KodiHowTo
+# Tuto Kodi
 
-### Table des matières
+
 
 ## Configurer le Wifi sur Kodi
 
