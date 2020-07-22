@@ -1,6 +1,8 @@
 # Tuto Kodi
 
 
+Lien raccourci : https://frama.link/TutoKodi
+
 
 ## Se connecter au wifi
 
