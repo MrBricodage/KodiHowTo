@@ -2,9 +2,7 @@
 
 
 
-## Configurer le Wifi sur Kodi
-
-### Saisir son code wifi
+## Se connecter au wifi
 
 Nécessite un clavier usb
 
@@ -25,19 +23,21 @@ Nécessite un clavier usb
 
 
 
-### Connaitre son IP depuis Kodi
+## Connaitre son IP 
+
+### Depuis Kodi
 
 #### Roue Crantée -> LibreElec -> Connections 
 
 L'adresse IP est affichée
 
-### Connaitre son IP depuis son Téléphone 
+### Depuis son Téléphone 
 
 Application Fing dans Android Store ou Apple Store -> Lancer un scan
 
 L'adresse IP correspond au périphérique LibreELEC.home, Raspberry PI
 
-### Configurer son Téléphone comme télécommande Wifi
+## Configurer son Téléphone comme télécommande
 
 Application Kore sous Android
 
@@ -47,8 +47,3 @@ MDP : xxx
 
 ## Configurer une source LiveStreamPro
 
-
-
-## Emplacement du fichier contenant la configuration Réseau avant format SD
-
-Voir MyKodiTips\Kodi.md
