@@ -58,6 +58,6 @@ Dans Extensions -> Extensions Vidéos
 
 ![image](https://image.jimcdn.com/app/cms/image/transf/none/path/sdbf15339ff25ca1f/image/iec73ab147b5a5a3a/version/1525038316/kodi-installation-d%C3%A9p%C3%B4t-fusion-tv-addons.jpg)
 
-Rising Tides pour le foot des 5 grands championnats européens
+**Rising Tides** pour le foot des 5 grands championnats européens
 
-LiveStreamPro pour le contenu à la demande
+**LiveStreamPro** pour le contenu à la demande
