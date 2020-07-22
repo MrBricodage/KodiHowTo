@@ -56,7 +56,7 @@ Utiliser le menu TV pour voir les chaines françaises
 
 Dans Extensions -> Extensions Vidéos
 
-![image](https://lh3.googleusercontent.com/proxy/dHpWLy34iuKXvfWKGXC6EooI84LHWNcLdXO6Yf-yOzEJIpS_Wu73J9cE2wLTEg9jEmeYgbdioPOfyhQSoh8VAOuaZ_PnU2AHtOr0csby-Ct8adU3rGSNRMoIRVlO2mli2KV08e_C6jNO_CjQSYyBJ39KRA4xQqNTAGAOMY8fbsuLnJ2SQ9-oGV2Zw7AP1TD0SFvkjIVMDWYMqw)
+![image](https://image.jimcdn.com/app/cms/image/transf/none/path/sdbf15339ff25ca1f/image/iec73ab147b5a5a3a/version/1525038316/kodi-installation-d%C3%A9p%C3%B4t-fusion-tv-addons.jpg)
 
 Rising Tides pour le foot des 5 grands championnats européens
 
