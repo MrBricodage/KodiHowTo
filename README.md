@@ -46,3 +46,14 @@ Username : kod
 MDP : xxx
 
 
+## Voir la TV en direct
+
+Utiliser le menu TV pour voir les chaines françaises
+
+## Contenu Sport en direct
+
+Dans Videos -> Extensions Vidéos
+
+Rising Tides pour le foot des 5 grands championnats européens
+
+LiveStreamPro pour le contenu à la demande
