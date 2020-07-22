@@ -8,12 +8,22 @@
 
 Nécessite un clavier usb
 
-Roue Crantée -> LibreElec -> Connections -> Choisir son Hotspot -> Saisir code wifi
+Roue Crantée
 
 ![image](https://wiki.libreelec.tv/_detail/le-system-settings.jpg?id=libreelec_settings)
 
+Roue Crantée -> LibreElec
 
 ![image](https://wiki.libreelec.tv/_media/le-settings-en.jpg?w=400&tok=632e78)
+
+Roue Crantée -> LibreElec -> Connections
+
+![image](https://www.mbtechworks.com/wp-uploads/kodi-11.jpg)
+
+
+Roue Crantée -> LibreElec -> Connections -> Choisir son Hotspot puis saisir le code wifi
+
+
 
 ##### Connaitre son IP depuis Kodi
 
