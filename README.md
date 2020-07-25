@@ -2,9 +2,17 @@
 
 Lien raccourci : https://frama.link/TutoKodi
 
+1. Se connecter au wifi
+2. Connaitre son IP
+3. Configurer son Téléphone comme télécommande
+4. Voir la TV en direct
+5. Contenu Sport en direct
+
+
+
 _________
 
-## Se connecter au wifi
+## 1. Se connecter au wifi
 
 Nécessite un clavier usb
 
@@ -25,7 +33,7 @@ Nécessite un clavier usb
 
 _________
 
-## Connaitre son IP 
+## 2. Connaitre son IP 
 
 ### Depuis Kodi
 
@@ -41,7 +49,7 @@ L'adresse IP correspond au périphérique LibreELEC.home, Raspberry PI
 
 _________
 
-## Configurer son Téléphone comme télécommande
+## 3. Configurer son Téléphone comme télécommande
 
 Application Kore sous Android
 
@@ -51,7 +59,7 @@ MDP : xxx
 
 _________
 
-## Voir la TV en direct
+## 4. Voir la TV en direct
 
 Utiliser le menu TV pour voir les chaines françaises
 
@@ -59,7 +67,7 @@ Utiliser le menu TV pour voir les chaines françaises
 
 _________
 
-## Contenu Sport en direct
+## 5. Contenu Sport en direct
 
 Dans Extensions -> Extensions Vidéos
 
