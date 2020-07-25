@@ -48,15 +48,15 @@ L'adresse IP est affichée
 
 ### Depuis son Téléphone 
 
-Application Fing dans Android Store ou Apple Store -> Lancer un scan
+Application **Fing** dans Android Store ou Apple Store -> Lancer un scan
 
-L'adresse IP correspond au périphérique LibreELEC.home, Raspberry PI
+L'adresse IP correspond au périphérique **LibreELEC.home, Raspberry PI**
 
 _________
 
 ## 3. Configurer son Téléphone comme télécommande
 
-Application Kore sous Android
+Application **Kore** sous Android
 
 Définir un nom au boitier, adresse IP fournie par le réseau, port 8080
 Username : kod
