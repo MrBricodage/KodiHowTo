@@ -1,8 +1,8 @@
 # Tuto Kodi
 
-
 Lien raccourci : https://frama.link/TutoKodi
 
+_________
 
 ## Se connecter au wifi
 
@@ -23,7 +23,7 @@ Nécessite un clavier usb
 
 #### Choisir son Hotspot puis saisir le code wifi
 
-
+_________
 
 ## Connaitre son IP 
 
@@ -39,6 +39,8 @@ Application Fing dans Android Store ou Apple Store -> Lancer un scan
 
 L'adresse IP correspond au périphérique LibreELEC.home, Raspberry PI
 
+_________
+
 ## Configurer son Téléphone comme télécommande
 
 Application Kore sous Android
@@ -47,12 +49,15 @@ Définir un nom au boitier, adresse IP fournie par le réseau, port 8080
 Username : kod
 MDP : xxx
 
+_________
 
 ## Voir la TV en direct
 
 Utiliser le menu TV pour voir les chaines françaises
 
 ![image](https://catch-up-tv-and-more.github.io/img/live_tv_installation/intro1.jpeg)
+
+_________
 
 ## Contenu Sport en direct
 
