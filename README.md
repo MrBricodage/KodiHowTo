@@ -2,11 +2,16 @@
 
 Lien raccourci : https://frama.link/TutoKodi
 
-1. Se connecter au wifi
-2. Connaitre son IP
-3. Configurer son Téléphone comme télécommande
-4. Voir la TV en direct
-5. Contenu Sport en direct
+
+[1. Se connecter au wifi](#1-se-connecter-au-wifi)
+
+[2. Connaitre son IP](#2-connaitre-son-ip)
+
+[3. Configurer son Téléphone comme télécommande](#3-configurer-son-t%C3%A9l%C3%A9phone-comme-t%C3%A9l%C3%A9commande)
+
+[4. Voir la TV en direct](#4-voir-la-tv-en-direct)
+
+[5. Contenu Sport en direct](#5-contenu-sport-en-direct)
 
 
 
